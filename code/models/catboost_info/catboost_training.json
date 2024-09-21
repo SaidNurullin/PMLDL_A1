@@ -1,0 +1,9 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Max","name":"PRAUC"},{"best_value":"Min","name":"Logloss"}],"launch_mode":"Train","parameters":"","iteration_count":1000,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[0.8728414148,0.6753303375],"iteration":0,"passed_time":3.618171803,"remaining_time":3614.553631},
+{"learn":[0.8804817493,0.65872608],"iteration":1,"passed_time":7.117885536,"remaining_time":3551.824883},
+{"learn":[0.89707744,0.6443345992],"iteration":2,"passed_time":10.97663004,"remaining_time":3647.90005},
+{"learn":[0.9023028771,0.6303862639],"iteration":3,"passed_time":15.03557629,"remaining_time":3743.858496},
+{"learn":[0.9089847782,0.617025634],"iteration":4,"passed_time":19.3801696,"remaining_time":3856.653751}
+]}
